@@ -2,12 +2,11 @@ body {
   background-color: black;
 }
 
-.card-bg{
+.card-bg {
   background-color: white;
 }
-}
 .first-image {
-    width:100px;   
+    width:400px;   
     height:400px;
     border-style: groove;
     border-color: violet;
@@ -50,7 +49,7 @@ p {
 body {
   color: violet;
   background-color: black;
-  text-shadow: 1px 1px black;
+  text-shadow: 2px 1px black;
   font-family: Helvetica;
 }
 h1 {
@@ -65,4 +64,9 @@ h1 {
 .card {
   color: violet;
 }
-
+img {
+  border-style: groove;
+    border-color: violet;
+    border-width: large;
+    border-radius: 20px;
+}
